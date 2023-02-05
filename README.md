@@ -1,4 +1,3 @@
 - 👋 Hi, I am Mourya from India
 - 👀  I’m currently pursuing my Bachelor of Computer Application (Bca).
 - 🌱 I’m currently learning C ...
-- 💞Love and support to everyone
