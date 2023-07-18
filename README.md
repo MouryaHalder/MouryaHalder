@@ -1,3 +1,4 @@
 - 👋 Hi, I am Mourya from India
-- 👀  I’m currently pursuing my Bachelor of Computer Application (Bca).
-- 🌱 I’m currently learning C / Java / DSA...
+- 👀  I’m currently pursuing my Bachelor of Computer Application (BCA).
+- 📍 Techno India Main Saltlake.
+- 🌱 I’m currently learning OS / Java / DSA...
